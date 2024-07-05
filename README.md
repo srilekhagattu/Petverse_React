@@ -6,7 +6,7 @@ It is a Website where we can buy and sell pets and pet products and this also co
 
 Front-end Development: ReactJs
 
-Back-end Development:Express
+Back-end Development: ExpressJs
 
 Database Management: MongoDB.
 
